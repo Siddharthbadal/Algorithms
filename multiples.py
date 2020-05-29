@@ -7,5 +7,3 @@ def natural_numbers(num):
 
 
 natural_numbers(1000)
-
-
