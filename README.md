@@ -1,4 +1,4 @@
-# Project_Euler
+# Algorithm problems
 
-This is the reposotiory for Project Euler. 
-Here I solve project euler problems by developing a program in python.
+This is the reposotiory for solving Algorithm problems in python. 
+Here I solve Algorithm problems by developing programs in python.
