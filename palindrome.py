@@ -1,3 +1,5 @@
+#Palindrome is solved in two ways. The first method uses slicing and the second method using builtin functions like join and reversed. 
+
 word = input("enter a word: ")
 newWord = word[::-1]
 # if newWord == word:
